@@ -1,0 +1,3 @@
+"""
+Gamestation manager frontend
+"""
